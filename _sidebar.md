@@ -1,7 +1,7 @@
 
 
 - [<i class="fa-solid fa-book"></i>   使用文档](manual/m1)
-- [<i class="fa-solid fa-clipboard"></i>   排版参考](manual/m2)
+- [<i class="fa-solid fa-clipboard"></i>   格式设计参考](manual/m2)
 
 - [<i class="fa-solid fa-gift"></i>  必要辅助工具](tool/t1)
 
